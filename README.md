@@ -1,1 +1,1 @@
-Hi, my name is Alain Coserariu. I'm a french student for a computer license at Université Gustave Eiffel.
+Hi, my name is Alain Coserariu. I am a French student currently learning computer science for a license in Université Gustave Eiffel.
